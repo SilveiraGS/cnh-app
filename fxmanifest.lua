@@ -4,7 +4,7 @@ lua54 "yes"
 
 author "Forge Group Developer"
 description "CNH Digital app for LB Phone"
-version "1.0.3"
+version "1.0.4"
 
 files {
   "ui/index.html",
